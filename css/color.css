@@ -1,0 +1,43 @@
+.text-white {
+    color: #ffffff;
+}
+
+.text-black {
+    color: #000000;
+}
+
+.text-gray {
+    color: grey;
+}
+
+.text-cyan {
+    color: rgb(38, 144, 212);
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-gray {
+    background-color: rgb(227, 230, 233);
+}
+
+.bg-cyan {
+    background-color: rgb(38, 144, 212);
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-pink {
+    color: palevioletred;
+}
